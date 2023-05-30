@@ -38,6 +38,5 @@ public class Ata {     public static void main(String[] args) {
         liste.clear();
         System.out.println(liste.toString());
         
-    }
-        
+    }   
 }
